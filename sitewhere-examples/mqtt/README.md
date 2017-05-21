@@ -1,4 +1,4 @@
-#SiteWhere examples
+# SiteWhere examples
 
 ## MQTT Connectivty examples using npm module mqtt.js for the following device events
 
@@ -20,7 +20,6 @@
 
 4.Sending Alerts
 
-## Generating alerts & Custom Command invocation using Groovy outbound event processor(grrovy scripts)
 
 
 
