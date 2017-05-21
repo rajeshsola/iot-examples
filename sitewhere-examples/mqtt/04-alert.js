@@ -9,7 +9,7 @@ var conn_opts = {
 	clean: true,
 	clientId: 'sitewhere.alerts',
 	reconnectPeriod: 1000,
-    connectTimeout: 30000
+    	connectTimeout: 30000
 	//username:'xxxx',
 	//password:'xxxx'
 };
