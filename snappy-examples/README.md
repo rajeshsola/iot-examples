@@ -4,4 +4,3 @@
 
 ### InfluxData TICK stack
 
-### Eclipse IOT 
